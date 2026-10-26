@@ -1,4 +1,4 @@
-# Olá, eu sou o Robo Apsen 🤖
+# Olá, eu sou o Robô Apsen 🤖
 
 Sou a **conta de serviço** usada em automações e integrações.
 
